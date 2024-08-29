@@ -1,5 +1,5 @@
 # Projeto API - 2° Semestre - Logística 2024
-Projeto API - 1° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 ## ÍNDICE
 
@@ -67,38 +67,24 @@ Sprint | Previsão | Status| Histórico|
 
 * **Sprint 1**
   
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%201.jpg)
+![sprint backlog]()
 
 * **Sprint 2**
 
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%202.png)
+![sprint backlog]()
 
 * **Sprint 3**
 
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%203.png)
+![sprint backlog]()
 
 * **Sprint 4**
   
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%204.png)
+![sprint backlog]()
   
 
 ## BURNDOWN DAS SPRINTS
 
 * **Burndown da Sprint 1**
-
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%201.png)
-
-* **Burndown da Sprint 2**
-
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%202.png)
-
-* **Burndown da Sprint 3**
-  
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%203.png)
-
-* **Burndown da Sprint 4**
-  
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%204.png)
 
 
 ## FERRAMENTAS UTILIZADAS 
@@ -107,28 +93,17 @@ Sprint | Previsão | Status| Histórico|
 
 ![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Metodologia%20Scrum.png)
 
-[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
-
 
 ## TECNOLOGIAS ESPECÍFICAS/ APOIO
 
-![Tenologias Específicas](https://github.com/anacarolinae/LASJK/blob/main/Tecnologias%20Espec%C3%ADficas.png)
+![Tenologias Específicas]()
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
 
 - ### Apresentação do MVP Sprint 1:
 
-![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%201.jpeg)
+![Dashboard MVP]()
 
-
-- ### Apresentação do MVP Sprint 2:
-  
-![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%202.png)  
-
-
-- ### Apresentação do MVP Sprint 3:
-  
-- ### Apresentação do MVP Sprint 3:
 
 ## REGRAS DE NEGÓCIO
 
@@ -151,10 +126,10 @@ Sprint | Previsão | Status| Histórico|
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆  |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -165,12 +140,12 @@ Sprint | Previsão | Status| Histórico|
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 
 </details>
