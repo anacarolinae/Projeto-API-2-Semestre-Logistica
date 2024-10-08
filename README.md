@@ -7,15 +7,11 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 * [Equipe](#equipe)
 * [Sprints](#Sprints)
 * [Backlog do Produto](#Backlog-do-Produto)
-* [Burndown das Sprints](#Burndowndas-Sprints)
-* [Tecnologias Especificas apoio](#Tecnologias-Especifica/apoio)
 
 
 ## PROJETO
 
-  Nosso projeto de logística visa (texto)
-  Desenvolvimento de uma interface gráfica que ofereça ao cliente uma análise visual (texto)
-  Desenvolvimento de um projeto pedagógico baseado na Metodologia API, visando o ensino-aprendizado centrado no desenvolvimento de competências. Este projeto é fundamentado nos pilares do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizando estratégias para compreender o problema, conceber uma solução viável, desenvolver e implementar o MVP (Minimum Viable Product), seguido pela sua operação (CDIO).
+  Nosso projeto tem como finalidade a análise e a melhoria do site da EMTU, focando na experiência do usuário, acessibilidade e funcionalidades interativas. Através de uma abordagem estruturada, o trabalho foi dividido em três sprints, nas quais foram realizadas análises, protótipos e simulações que visam transformar a plataforma em um ambiente mais amigável e eficiente. O objetivo final é proporcionar aos usuários uma experiência fluida, que atenda às suas necessidades e expectativas.
 
 ## EQUIPE
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -65,54 +61,6 @@ Sprint | Previsão | Status| Histórico|
 * **Sprint 1**
   
 ![sprint backlog]()
-
-* **Sprint 2**
-
-![sprint backlog]()
-
-* **Sprint 3**
-
-![sprint backlog]()
-
-* **Sprint 4**
-  
-![sprint backlog]()
-  
-
-## BURNDOWN DAS SPRINTS
-
-* **Burndown da Sprint 1**
-
-
-## FERRAMENTAS UTILIZADAS 
-
-- ### Metodologia Scrum:
-
-![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Metodologia%20Scrum.png)
-
-
-## TECNOLOGIAS ESPECÍFICAS/ APOIO
-
-![Tenologias Específicas]()
-
-## FUNCIONALIDADES E REGISTROS DAS SPRINTS
-
-- ### Apresentação do MVP Sprint 1:
-
-![Dashboard MVP]()
-
-
-## REGRAS DE NEGÓCIO
-
-- Criação de um Dashboard intuitivo para visualização dos dados apresentados.
-
-- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE.
-
-- Documentação do projeto de forma clara e de fácil acesso.
-
-- Utilização da Metodologia ágil.
-
-- Power BI / Jira / Canvas.
 
 
 ## COMPETÊNCIAS DESENVOLVIDAS
