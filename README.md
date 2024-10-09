@@ -27,7 +27,7 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 **EMTU**
 
 <p align="center">
-  <img src="https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/EMTU%20Logo.png"/>
+  <img src="https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Imagens/EMTU%20Logo.png"/>
 
 </p>
 
@@ -57,11 +57,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## BACKLOG DO PRODUTO
-
-* **Sprint 1**
-  
-![sprint backlog]()
-
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
