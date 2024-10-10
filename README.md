@@ -56,8 +56,6 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
 
 
-## BACKLOG DO PRODUTO
-
 ## COMPETÊNCIAS DESENVOLVIDAS
 
 ## Hard Skill (saber tecnológico)
@@ -66,10 +64,10 @@ Sprint | Previsão | Status| Histórico|
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆  |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
+| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
