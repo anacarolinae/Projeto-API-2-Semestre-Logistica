@@ -57,6 +57,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## BACKLOG DO PRODUTO
 
+| [Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/EMTU.zip) | 
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
