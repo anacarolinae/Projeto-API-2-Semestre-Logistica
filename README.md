@@ -57,8 +57,6 @@ Sprint | Previsão | Status| Histórico|
 
 ## BACKLOG DO PRODUTO
 
-file:///C:/Users/Fatec/AppData/Local/Temp/7zO88366020/index.html
-
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
