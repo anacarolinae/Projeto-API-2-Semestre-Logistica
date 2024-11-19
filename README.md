@@ -6,7 +6,6 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 * [Projeto](#projeto)
 * [Equipe](#equipe)
 * [Sprints](#Sprints)
-* [Backlog do Produto](#Backlog-do-Produto)
 
 
 ## PROJETO
@@ -49,9 +48,9 @@ Valores
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 16/09/2024 | Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG001.A994.M.074.146.20241/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B521429fe-0b9d-4efa-af39-c5653daf110d%7D&wdOrigin=TEAMS-WEB.teams_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1712838676135&web=1) | 
-|1 | 09/10/2024 | Concluído | [Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
-|2|  06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
+|Kick Off | 16/09/2024 | Concluído| [Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
+|1 | 09/10/2024 | Concluído | [Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
+|2|  06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
 |3| 27/11/2024 | Concluído |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) | 
 |Feira de Soluções|12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) | 
 
