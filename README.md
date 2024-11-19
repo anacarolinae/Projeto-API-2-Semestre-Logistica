@@ -6,7 +6,7 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 * [Projeto](#projeto)
 * [Equipe](#equipe)
 * [Sprints](#Sprints)
-
+* [Backlog do Produto](#Backlog-do-Produto)
 
 ## PROJETO
 
@@ -53,6 +53,11 @@ Sprint | Previsão | Status| Histórico|
 |2|  06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
 |3| 27/11/2024 | Concluído |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) | 
 |Feira de Soluções|12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) | 
+
+
+## BACKLOG DO PRODUTO
+
+file:///C:/Users/Fatec/AppData/Local/Temp/7zO88366020/index.html
 
 
 ## COMPETÊNCIAS DESENVOLVIDAS
