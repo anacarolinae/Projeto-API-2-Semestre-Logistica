@@ -1,0 +1,80 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    border: 1px solid black;
+    margin: 1px;
+}
+
+.child{
+    padding: 5px;
+    margin: 5px;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pai{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 20px;
+
+}
+.carrossel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-image: url('/ferramentas/mapas/map0.jpg');
+}
+
+.next{
+    background-color: transparent;
+    color: transparent;
+}
+
+.next:hover{
+    background-color: rgba(0, 0, 0, 0.347);
+    color: white;
+}
+
+#searchBar{
+    width: 80%;
+}
+
+#search{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.cards{
+    text-justify: center;
+    width: 25%;
+    height: 40%;
+    padding: 15px;
+    margin: 10px 0;    
+
+}
+
+.cards:hover{
+    background-color: rgba(0, 0, 0, 0.347)
+}
+
+.footerbtn{
+    height: 30px;
+    background-color: rgb(37, 37, 86);
+    border-radius: 50px;
+    width: 25%;
+    margin: 5px;
+}
+
+.footerbtn:hover{
+    background-color: rgba(37, 37, 86, 0.8);
+}
