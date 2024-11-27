@@ -1,0 +1,136 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    border: 1px solid black;
+    margin: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.child{
+    padding: 5px;
+    margin: 5px;
+    width: 125px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+svg{
+    border: none;
+}
+
+h6{
+    border: none;
+}
+
+.pai{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 5px 0;
+    background-color: rgb(0, 97, 165);
+    border-radius: 0 0 5px 5px;
+    margin: 0 0 5px 0;
+    border: none;
+}
+.carrossel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-image: url('/ferramentas/mapas/map0.jpg');
+}
+
+.next{
+    background-color: transparent;
+    color: transparent;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+
+.next:hover{
+    background-color: rgba(0, 0, 0, 0.347);
+    color: white;
+}
+
+#searchBar{
+    width: 80%;
+}
+
+#search{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.cards{
+    text-justify: center;
+    width: 25%;
+    height: 70px;
+    padding: 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(0, 97, 165);
+}
+
+.cards:hover{
+    background-color: rgba(0, 0, 0, 0.347)
+}
+
+.footerbtn{
+    height: 35px;
+    background-color: rgb(37, 37, 86);
+    border-radius: 50px;
+    width: 200px;
+    margin: 5px;
+    color: white;
+    font-size: 100%;
+}
+
+.footerbtn:hover{
+    background-color: rgba(37, 37, 86, 0.8);
+    cursor: pointer;
+}
+
+.Logo{
+    display: flex;
+    position: relative;
+    width: 12%;
+    margin: 0;
+}
+
+svg{
+    margin: 2px;
+}
+
+p{
+    border: none;
+}
+
+.footerText{
+    display: flex;
+    flex-direction: row;
+    margin: 5px 35px 5px 5px;
+    font-size: 12px;
+    font-weight: bolder;
+    color: #111;
+}
+
+.footerText:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
