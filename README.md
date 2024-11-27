@@ -4,10 +4,13 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 
 ## ÍNDICE
 
-* [Projeto](#projeto)
 * [Equipe](#equipe)
-* [Sprints](#Sprints)
-* [Backlog do Produto](#Backlog-do-Produto)
+* [Projeto](#projeto)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Resultado Esperado](#resultado-esperado)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Sprints](#sprints)
+* [Backlog do Produto](#backlog-do-produto)
 
 
 ## EQUIPE
