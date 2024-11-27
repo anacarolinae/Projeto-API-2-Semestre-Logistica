@@ -78,6 +78,35 @@ Sprint | Previsão | Status| Histórico|
 
 ## BACKLOG DO PRODUTO
 
+ ### Sprint 1 - Analise e ideação
+
+> Analise do site: Examinar a navegação, design, funcionalidades,
+acessibilidade e áreas de melhoria.
+
+> Propostas de design: Apresentar wireframes ou mockups que mostrem como
+o novo design e a navegação melhorada poderiam ser implementados,
+demonstrando a facilidade de uso.
+
+ ### Sprint 2 -Prortotipagem das funcionalidades
+
+> Prototipagem das ferramentas interativas: Desenvolver um protótipo
+interativo de ferramentas como o mapa de rotas e calculadora de tarifas.
+
+> Propostas de melhorias no conteúdo: Sugerir formas de manter o site
+atualizado, incluindo um modelo de fluxos.
+
+> Estudo de viabilidade: Demonstrar como as melhorias podem impactar
+positivamente os usuários, usando benchmarks de outros sites de transporte
+publico como referencia.
+
+ ### Sprint 3 - Apresentação e justificativa final
+
+> Documentação completa: Criar um documento que resuma todas as fases do
+projeto, detalhando as propostas de design, funcionalidades e suas
+justificativas.
+
+</details>
+
 | [Ver Backlog](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/EMTU.zip) | 
 
 ## COMPETÊNCIAS DESENVOLVIDAS
