@@ -85,10 +85,10 @@ Sprint | Previsão | Status| Histórico|
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Gestão de Projetos | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆  |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -99,12 +99,12 @@ Sprint | Previsão | Status| Histórico|
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 
 
 </details>
