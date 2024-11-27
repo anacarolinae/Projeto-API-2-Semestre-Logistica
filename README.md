@@ -1,6 +1,5 @@
-# Projeto API
-Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
-
+# APRENDIZADO POR PROJETO INTEGRADO (API)
+A aprendizagem por projeto integrador, adota a metodologia ágil SCRUM para promover o desenvolvimento das competências de proatividade, autonomia, colaboração e foco na entrega de resultados entre os estudantes. O objetivo é proporcionar uma experiência prática e dinâmica, alinhada às necessidades do mercado, onde os participantes possam aplicar os conceitos aprendidos em situações reais de trabalho.
 
 ## ÍNDICE
 
