@@ -110,7 +110,7 @@ justificativas.
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
-## Hard Skill (saber tecnológico)
+ ### Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -124,7 +124,7 @@ justificativas.
 </details>
 
 
-## Soft Skill (saber comportamental)
+ ### Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
