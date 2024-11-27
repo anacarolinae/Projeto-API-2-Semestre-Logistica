@@ -106,7 +106,7 @@ justificativas.
 
 </details>
 
-| [Ver Backlog](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/EMTU.zip) | 
+| [Ver Backlog](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/tree/main/EMTUsite) | 
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
