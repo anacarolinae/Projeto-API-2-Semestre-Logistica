@@ -1,5 +1,6 @@
-# Projeto API - 2° Semestre - Logística 2024
+# Projeto API
 Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+
 
 ## ÍNDICE
 
@@ -8,9 +9,6 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 * [Sprints](#Sprints)
 * [Backlog do Produto](#Backlog-do-Produto)
 
-## PROJETO
-
-  Nosso projeto tem como finalidade a análise e a melhoria do site da EMTU, focando na experiência do usuário, acessibilidade e funcionalidades interativas. Através de uma abordagem estruturada, o trabalho foi dividido em três sprints, nas quais foram realizadas análises, protótipos e simulações que visam transformar a plataforma em um ambiente mais amigável e eficiente. O objetivo final é proporcionar aos usuários uma experiência fluida, que atenda às suas necessidades e expectativas.
 
 ## EQUIPE
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -21,27 +19,18 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 |  Team Member  | Yasmin                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()   |
 |  Team Member  | Wilson     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()          |
 
-## EMPRESA
 
-**EMTU**
+## EMPRESA
 
 <p align="center">
   <img src="https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Imagens/EMTU%20Logo.png"/>
 
 </p>
 
- 
-Missão
- 
- >Promover a qualidade da mobilidade urbana nas regiões metropolitanas do Estado de São Paulo, planejando, estruturando e fiscalizando o serviço de transporte de média e baixa capacidade.
 
-Visão
+## PROJETO (EMTU)
 
- >Aumentar o padrão de conforto, eficiência e modernidade do sistema de transporte sob responsabilidade gerencial da EMTU/SP, elevando a satisfação do usuário. 
-
-Valores
-
- >Os valores que norteiam as ações da EMTU/SP são: Conhecimento, Competência e Comprometimento, Integridade, Ética e Transparência, Responsabilidade Ambiental, Social e Econômica e Inovação.
+  Nosso projeto tem como finalidade a análise e a melhoria do site da EMTU, focando na experiência do usuário, acessibilidade e funcionalidades interativas. Através de uma abordagem estruturada, o trabalho foi dividido em três sprints, nas quais foram realizadas análises, protótipos e simulações que visam transformar a plataforma em um ambiente mais amigável e eficiente. O objetivo final é proporcionar aos usuários uma experiência fluida, que atenda às suas necessidades e expectativas.
 
 
 ## SPRINTS
