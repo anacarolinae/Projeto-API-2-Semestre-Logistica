@@ -103,7 +103,8 @@ publico como referencia.
 > Documentação completa: Criar um documento que resuma todas as fases do
 projeto, detalhando as propostas de design, funcionalidades e suas
 justificativas.
-> https://www.canva.com/design/DAGVvxpN558/Mp2xlnfiqYaqCDTnoqVNSA/edit?utm_content=DAGVvxpN558&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+> [Ver Apresentação](https://www.canva.com/design/DAGVvxpN558/Mp2xlnfiqYaqCDTnoqVNSA/edit?utm_content=DAGVvxpN558&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 </details>
 
