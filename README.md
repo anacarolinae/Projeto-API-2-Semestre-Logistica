@@ -63,6 +63,10 @@ promovendo um acesso equitativo e eficiente para todos.
 
 > HTML
 
+> JavaScript
+
+> CSS
+
 
 ## SPRINTS
 
