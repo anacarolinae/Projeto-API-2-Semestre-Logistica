@@ -108,11 +108,16 @@ publico como referencia.
 projeto, detalhando as propostas de design, funcionalidades e suas
 justificativas.
 
-> [Ver Apresentação](https://www.canva.com/design/DAGVvxpN558/Mp2xlnfiqYaqCDTnoqVNSA/edit?utm_content=DAGVvxpN558&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ ### Backlog Produto
+>  [Site EMTU](https://slot148.github.io/)
+
+## APRESENTAÇÕES
+
+> [Apresentação 3 - Sprint](https://www.canva.com/design/DAGVvxpN558/Mp2xlnfiqYaqCDTnoqVNSA/edit?utm_content=DAGVvxpN558&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+> [Apresentação IIX - Feira de Soluções](https://www.canva.com/design/DAGIHr7OBv4/3Qpwr6pJPOMD6F8VmuNxvQ/edit?utm_content=DAGIHr7OBv4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 </details>
-
->  [Ver Backlog](https://slot148.github.io/)
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
