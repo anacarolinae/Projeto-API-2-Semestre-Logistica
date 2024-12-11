@@ -70,14 +70,15 @@ promovendo um acesso equitativo e eficiente para todos.
 
 ## SPRINTS
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 16/09/2024 | Concluído| [Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
-|1 | 09/10/2024 | Concluído | [Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
-|2|  06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Projeto%20EMTU.pdf) | 
-|3| 27/11/2024 | Concluído |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) | 
-|Feira de Soluções|12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) | 
+Sprint | Previsão | Status| 
+|------|--------|------|
+|Kick Off | 16/09/2024 | Concluído|  
+|1 | 09/10/2024 | Concluído | 
+|2|  06/11/2024| Concluído |
+|3| 27/11/2024 | Concluído |
+|Feira de Soluções|12/12/2024 | a fazer |
 
+> [Ver Relatório](https://github.com/anacarolinae/Projeto-API-2-Semestre-Logistica/blob/main/Documenta%C3%A7%C3%A3o/Relatorio%20Final%20Projeto%20EMTU%20.pdf) 
 
 ## BACKLOG DO PRODUTO
 
@@ -110,8 +111,6 @@ justificativas.
 
  ### Backlog Produto
 >  [Site EMTU](https://slot148.github.io/)
-
-## APRESENTAÇÕES
 
 > [Apresentação IIX - Feira de Soluções](https://www.canva.com/design/DAGY5IkhA_E/nkQSUguGd9vwJ_tHrwU1DA/edit?utm_content=DAGY5IkhA_E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
