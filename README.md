@@ -113,9 +113,7 @@ justificativas.
 
 ## APRESENTAÇÕES
 
-> [Apresentação 3 - Sprint](https://www.canva.com/design/DAGVvxpN558/Mp2xlnfiqYaqCDTnoqVNSA/edit?utm_content=DAGVvxpN558&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-> [Apresentação IIX - Feira de Soluções](https://www.canva.com/design/DAGIHr7OBv4/3Qpwr6pJPOMD6F8VmuNxvQ/edit?utm_content=DAGIHr7OBv4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+> [Apresentação IIX - Feira de Soluções](https://www.canva.com/design/DAGY5IkhA_E/nkQSUguGd9vwJ_tHrwU1DA/edit?utm_content=DAGY5IkhA_E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 </details>
 
