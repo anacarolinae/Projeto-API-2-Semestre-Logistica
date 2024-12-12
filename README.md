@@ -110,7 +110,7 @@ projeto, detalhando as propostas de design, funcionalidades e suas
 justificativas.
 
  ### Backlog Produto
->  [Site EMTU](https://slot148.github.io/)
+>  [Site EMTU](https://slot148.github.io/SiteEMTUtest.github.io/)
 
 > [Apresentação IIX - Feira de Soluções](https://www.canva.com/design/DAGY5IkhA_E/nkQSUguGd9vwJ_tHrwU1DA/edit?utm_content=DAGY5IkhA_E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
